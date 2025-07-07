@@ -1,6 +1,11 @@
 // Create your Body component here
-import {FaGithub, FaLinkedin} from "react-icons/fa";
-import Avatar from '../assets/5oftware.png';
+import {FaGithub, FaLinkedin,FaJs,FaReact} from "react-icons/fa";
+// import { FaJs } from "react-icons/fa";
+// import { FaReact } from "react-icons/fa";
+// import { FaGithub} from "react-icons/fa";
+// import { FaLinkedin } from "react-icons/fa";
+// ...existing code...
+import Avatar from '../assets/Software.png';
 
 const Body =()=>{
     return(
