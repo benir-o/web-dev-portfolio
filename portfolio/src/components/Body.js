@@ -18,8 +18,8 @@ const Body =()=>{
                         <div className="body-text">Software Architect</div>
                     </div>
                     <div className="body-icons">
-                        <a href="https://www.educative.io/" target="_blank" rel="noreferrer" className="icon-link"><i>FaGithub</i></a>
-                        <a href="https://www.educative.io/" target="_blank" rel="noreferrer" className="icon-link"><i>FaLinkedin</i></a>
+                        <a href="https://github.com/benir-o" target="_blank" rel="noreferrer" className="icon-link"><i>FaGithub</i></a>
+                        <a href="https://www.linkedin.com/benirodeny" target="_blank" rel="noreferrer" className="icon-link"><i>FaLinkedin</i></a>
                     </div>
                 </div>
             </div>
